@@ -41,4 +41,4 @@ We're currently working on this feature, so be sure to stick around! 😉
 
 
 <br>
-  <p align="center">Made with ♡ by <a href="https://www.brianwalczak.com">Briann</a></p>
+  <p align="center">Made with ♡ by <a href="https://brian.re/">Briann</a></p>
